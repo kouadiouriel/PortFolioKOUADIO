@@ -44,4 +44,7 @@ HTML5, CSS3, JavaScript, Tailwind CSS
 - `images/` : photo, logo et visuels des projets
 - 
 https://drive.google.com/file/d/1LMsMI1vSWQoun2rWF8aH-JaEXx9CX4dK/view?usp=drivesdk
+
+deploiement
+https://kouadiouriel.github.io/PortFolioKOUADIO/portfolio_6683/portfolio/
  
